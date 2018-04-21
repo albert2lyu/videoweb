@@ -1,0 +1,272 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+* {
+margin: 0;
+padding: 0;
+}
+
+img{
+border:0px;
+}
+
+body {
+text-align:center;
+font-size:12px;
+}
+
+.bocom_titile_font{
+margin-left:10px;
+vertical-align:middle;
+font-weight:bolder;
+font-family:"Courier New", Courier, monospace;
+font-size:24px;
+color:#000000;
+letter-spacing:2px;
+word-spacing:8px;
+}
+
+a.lt_link_font{
+font-size: 12px;
+color:#660000;
+font-weight: bold;
+padding-bottom:4px;
+text-decoration:none;
+}
+a.lt_link_font:hover,a.lt_link_font:focus{
+color:#FFFFFF;
+text-decoration:underline;
+}
+
+.tools_link_l{
+margin:0px;
+font-size: medium !important;
+color: #FFFFFF;
+}
+.tools_link_d{
+margin:0px;
+font-size: medium !important;
+/*color: #A9A9A9;*/
+color: #F5F5F5;
+}
+
+a.tool_item_link{
+text-decoration:none;
+}
+a.tool_item_link:hover,a.tool_item_link:focus{
+/*text-decoration:underline;
+font-weight:bold;*/
+}
+
+a.menu_item_link{
+text-decoration:none;
+}
+a.menu_item_link:hover,a.menu_item_link:focus{
+font-weight:bold;
+}
+
+.menu_font{
+font:"Times New Roman", Times, serif;
+font-size:medium;
+color:#FFFFFF;
+font-weight:bold;
+margin-left:8px;
+}
+
+.menu_item{
+font:"Times New Roman", Times, serif;
+font-size:14px;
+color:#000000;
+text-decoration:none;
+margin-left:18px;
+}
+.menu_item:hover{
+text-decoration:underline;
+}
+.menu_item_select{
+font:"Times New Roman", Times, serif;
+font-size:14px;
+font-weight:bold;
+color:#FFFFFF;
+text-decoration:underline;
+margin-left:18px;
+}
+
+.left_topper{
+font-size:smaller;
+color:#CFCFCF;
+text-align:left;
+vertical-align:middle;
+}
+
+tr.tr_tool_setup{
+background:#404040 repeat;
+vertical-align:middle;
+}
+td.td_tool_setup{
+text-align:center;
+border-right:ridge thin #CCCCCC;
+}
+td.td_tool_setup:hover,td.td_tool_setup:focus{
+background:url(../images/tool_active_bg.png) repeat;
+}
+
+td.left_menu_bg{
+background:url(../images/left_menu_bg.jpg) repeat-y;
+width:183px;
+vertical-align:top;
+border:none;
+}
+td.td_menu_setup{
+background:url(../images/menu_bg.gif) repeat-x;
+height:36px;
+}
+
+table.table_left_menu_setup{
+border:none;
+}
+
+td.td_item_setup{
+/*background:url(../images/item_bg.gif) repeat-x;*/
+height:26px;
+}
+td.td_item_setup:hover,td.td_item_setup:focus{
+background:url(../images/item_bg.gif) repeat-x;
+height:26px;
+}
+td.td_item_setup_select{
+/*background:url(../images/item_bg.gif) repeat-x;*/
+background:url(../images/background.gif) repeat;
+height:26px;
+}
+
+
+
+#box {
+text-align: left;
+width: 1024px;
+margin:0 auto;
+position: relative;
+}
+
+#topper{
+/*background-color:#D9D9D9;*/
+background:url(../images/topper_bg.jpg) repeat-x;
+width:inherit;
+height:55px;
+}
+
+#tools{
+width:inherit;
+height:40px;
+background-color:#404040;
+}
+#uptime_div{
+font-size:12px;
+color:#CFCFCF;
+background-color:#404040;
+text-align: left;
+vertical-align:middle;
+margin-top:3px;
+margin-left:3px;
+}
+
+iframe{
+border:none;
+}
+
+iframe.uptime{
+width:100%;
+height:40px;
+border:none;
+}
+iframe.target_style{
+width:100%;
+/*height和#manager的高度相同；如果下面的几个*_img属性有效的话，此处的height应相应的减去*_img的height的值*/
+height:550px;
+border:none;
+}
+iframe.header_style{
+width:100%;
+height:55px;
+border:none;
+}
+
+#break1{
+height:12px;
+background:url(../images/break1_bg.jpg) repeat-x;
+}
+
+#manager{
+/*修改height值，须同时修改iframe.target_style的height值，两值相同*/
+height:550px;
+}
+
+#break2{
+background:url(../images/break2_bg.gif) no-repeat;
+height:6px;
+}
+
+#footer{
+background-color:#404040;
+vertical-align:middle;
+text-align:center;
+font:x-small;
+color:#FFFFFF;
+width:inherit;
+height:36px;
+}
+
+td.status_img{
+/*显示或取消显示背景图片，下同.
+显示时，需要参考iframe.target_style设置。
+*/
+
+background-image:url(../images/status_img.jpg);
+height:128px;
+widows:841px;
+
+}
+td.system_img{
+
+background-image:url(../images/system_img.jpg);
+height:128px;
+widows:841px;
+
+}
+td.volume_img{
+
+background-image:url(../images/volume_img.jpg);
+height:128px;
+widows:841px;
+
+}
+td.raidmgr_img{
+
+background-image:url(../images/raidmgr_img.jpg);
+height:128px;
+widows:841px;
+
+}
+td.service_img{
+
+background-image:url(../images/service_img.jpg);
+height:128px;
+widows:841px;
+
+}
+td.account_img{
+
+background-image:url(../images/account_img.jpg);
+height:128px;
+widows:841px;
+
+}
+td.vis_img{
+
+background-image:url(../images/vis_img.jpg);
+height:128px;
+widows:841px;
+
+}

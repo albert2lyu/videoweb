@@ -1,0 +1,40 @@
+information&&&2011-01-12 17:38:49&&&192.168.29.43&&&System&&&admin login.
+information&&&2011-01-13 14:24:41&&&192.168.1.242&&&System&&&admin login.
+warning&&&2011-01-14 15:27:06&&&192.168.1.242&&&System&&&amdin login failed.
+warning&&&2011-01-14 15:27:13&&&192.168.1.242&&&System&&&amdin login failed.
+information&&&2011-01-14 15:27:23&&&192.168.1.242&&&System&&&admin login.
+information&&&2011-01-17 11:25:03&&&192.168.1.242&&&System&&&admin login.
+information&&&2011-01-21 15:58:14&&&192.168.29.43&&&System&&&admin login.
+warning&&&2011-02-01 17:43:28&&&192.168.29.121&&&System&&&admin login failed.
+information&&&2011-02-01 17:43:31&&&192.168.29.121&&&System&&&admin login.
+information&&&2011-02-01 17:44:22&&&192.168.29.121&&&Network&&&set NIC device config eth0(15.128.18.10/255.255.255.0) ok.
+information&&&2011-02-01 17:45:27&&&15.128.18.121&&&System&&&admin login.
+information&&&2011-02-01 17:46:02&&&15.128.18.121&&&Network&&&set gateway to [15.128.18.254] ok.
+information&&&2011-02-01 17:48:33&&&15.128.18.121&&&System&&&mount /dev/sdb ok.
+warning&&&2011-02-23 13:01:08&&&15.128.16.241&&&System&&&admin login failed.
+warning&&&2011-02-23 13:01:14&&&15.128.16.241&&&System&&&admin login failed.
+warning&&&2011-02-23 13:01:30&&&15.128.16.241&&&System&&&super login failed.
+information&&&2011-02-23 13:01:42&&&15.128.16.241&&&System&&&admin login.
+information&&&2011-02-24 10:31:57&&&15.128.16.241&&&System&&&admin login.
+information&&&2011-02-24 10:33:43&&&15.128.16.241&&&System&&&admin login.
+information&&&2011-02-28 17:29:45&&&15.128.16.106&&&System&&&admin login.
+warning&&&2011-02-28 17:36:01&&&15.128.16.106&&&System&&&Reboot   system ok.
+information&&&2011-03-02 13:44:34&&&15.128.16.106&&&System&&&admin login.
+information&&&2011-03-02 13:44:54&&&15.128.16.106&&&System&&&set disk(/dev/sdb) read ahead[8MB] ok.
+information&&&2011-03-02 13:45:03&&&15.128.16.106&&&System&&&set disk(/dev/sdc) read ahead ok.
+information&&&2011-03-14 15:36:32&&&15.128.16.241&&&System&&&admin login.
+information&&&2011-03-14 15:54:37&&&15.128.16.241&&&Volume&&&create /dev/sdb as physical volume ok.
+information&&&2011-03-14 15:54:37&&&15.128.16.241&&&Volume&&&create /dev/sdc as physical volume ok.
+warning&&&2011-03-14 15:54:44&&&15.128.16.241&&&Volume&&&remove physical volume /dev/sdb ok.
+warning&&&2011-03-14 15:54:45&&&15.128.16.241&&&Volume&&&remove physical volume /dev/sdc ok.
+information&&&2011-03-14 15:55:27&&&15.128.16.241&&&Volume&&&create /dev/sdb as physical volume ok.
+information&&&2011-03-14 15:55:27&&&15.128.16.241&&&Volume&&&create /dev/sdc as physical volume ok.
+warning&&&2011-03-14 15:55:52&&&15.128.16.241&&&Volume&&&remove physical volume /dev/sdb ok.
+warning&&&2011-03-14 15:55:53&&&15.128.16.241&&&Volume&&&remove physical volume /dev/sdc ok.
+information&&&2011-03-15 15:08:53&&&15.128.18.241&&&System&&&admin login.
+information&&&2011-03-15 15:09:53&&&15.128.18.241&&&System&&&admin log out.
+information&&&2011-03-22 10:57:08&&&192.168.27.43&&&System&&&admin login.
+information&&&2011-03-22 11:04:46&&&192.168.27.43&&&Clock&&&set localhost as ntp server ok.
+information&&&2011-03-22 11:04:46&&&192.168.27.43&&&Clock&&&set ntp server ip to [192.168.51.10] ok.
+information&&&2011-03-22 11:04:47&&&192.168.27.43&&&Clock&&&set localhost as ntp server ok.
+information&&&2011-03-22 11:04:48&&&192.168.27.43&&&Clock&&&set ntp server ip to [192.168.51.10] ok.
