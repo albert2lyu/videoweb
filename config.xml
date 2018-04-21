@@ -2,13 +2,13 @@
 <config>
     <ServerConfigMember>
         <Enabled>1</Enabled>
-        <SvrIP>192.168.1.170</SvrIP>
+        <SvrIP>192.168.0.119</SvrIP>
         <SvrPort>4510</SvrPort>
-        <User>11</User>
+        <User>1</User>
         <Pass>0</Pass>
-		<SvrIPEx>192.168.1.118</SvrIPEx>
+	<SvrIPEx>192.168.0.119</SvrIPEx>
         <SvrPortEx>4510</SvrPortEx>
-        <UserEx>11</UserEx>
+        <UserEx>1</UserEx>
         <PassEx>0</PassEx>
     </ServerConfigMember>
     <ServerConfigMember>
