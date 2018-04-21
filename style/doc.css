@@ -1,0 +1,151 @@
+/*
+*{
+    margin:0;
+    padding:0;
+}
+
+BODY {
+	FONT-SIZE: 15px;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+TD {
+	FONT-SIZE: 15px;
+}
+*/
+body{
+/*background: #CCC;*/
+}
+img{
+	text-align:center;
+	vertical-align:middle;
+}
+a.lt_link_font{
+color:#606064;
+font-weight:bold;
+font-size:12px;
+padding-bottom:4px;
+text-decoration:none;
+}
+a.lt_link_font:hover,a.lt_link_font:focus{
+color:#800080;
+text-decoration:underline;
+}
+td.tdptzbtn{
+	height: 32px;
+	width:32px;
+	text-align: center;
+	vertical-align:middle;
+}
+td.field_title{
+font-size: 13px;
+color:#333;
+}
+
+input[type="text"], input[type="password"], select
+{
+        border: 1px solid rgb(149, 149, 149);
+        padding: 4px;
+}
+
+input[type="text"]:focus, input[type="password"]:focus, select:focus
+{
+        border: 2px solid rgb(149, 149, 149);
+        padding: 3px;
+        background-color: #FCFFCD;
+}
+
+
+input[type="text"]:hover, input[type="password"]:hover, select:hover
+{
+        border: 2px solid rgb(149, 149, 149);
+        padding: 3px;
+}
+input[readonly="readonly"], input[readonly="readonly"]:hover, input[readonly="readonly"]:focus
+{
+	background-color:#FFFAF0;
+	color: #404040;
+}
+
+input[readonly], input[readonly]:hover, input[readonly]:focus
+{
+	background-color:#F9F9F9;
+	color: #404040;
+}
+
+input[type=submit],input[type=button]
+{
+    border: solid 1px #B0C4DE;
+    background-color:#e8eff4;
+    padding:4px;
+}
+input[type=submit]:hover, input[type=button]:hover, input[type=submit]:focus, input[type=button]:focus
+{
+    background-color:#F5FFFA;
+    font-weight:bold;
+}
+
+img.ptzbtn:hover
+{
+	/*
+	filter:alpha(opacity=60);
+	opacity: 0.6;
+	cursor:pointer;*/
+}
+span.popup_title{
+	color:#333;
+	font-weight:bold;
+	font-size:15px;
+}
+span.popup_title_white{
+	color:#FFF;
+	font-weight:bold;
+	font-size:15px;
+}
+span.tip_text{
+font-size: 12px;
+color:#333;
+}
+span.tip_result{
+font-size: 13px;
+color:#00F;
+}
+select.cam_list{
+color:#333;
+/*font-weight:bold;*/
+font-size:13px;
+width:360px;
+}
+select.scan_list{
+color:#333;
+font-size:14px;
+width:320px;
+}
+span.status_switch{
+/*background-color:#fc0;
+display:-moz-inline-box;*/
+color:#7F0000;
+font-size:13px;
+display:inline-block;
+width:120px; 
+}
+div.show_selected_cam{
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color:#333;
+	white-space: nowrap;
+	clear:both;
+	display:block;
+}
+
+a.openclose{
+color:#404044;
+font-size:12px;
+text-decoration:none;
+}
+span.tip_text2{
+font-size: 13px;
+color:#03F;
+}

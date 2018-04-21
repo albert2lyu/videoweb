@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<config>
+    <ServerConfigMember>
+        <Enabled>1</Enabled>
+        <SvrIP>192.168.1.170</SvrIP>
+        <SvrPort>4510</SvrPort>
+        <User>11</User>
+        <Pass>0</Pass>
+		<SvrIPEx>192.168.1.118</SvrIPEx>
+        <SvrPortEx>4510</SvrPortEx>
+        <UserEx>11</UserEx>
+        <PassEx>0</PassEx>
+    </ServerConfigMember>
+    <ServerConfigMember>
+        <Enabled>1</Enabled>
+        <SvrIP>10.3.12.10</SvrIP>
+        <SvrPort>4510</SvrPort>
+        <User>11</User>
+        <Pass>0</Pass>
+		<SvrIPEx>123.234.130.254</SvrIPEx>
+        <SvrPortEx>4510</SvrPortEx>
+        <UserEx>11</UserEx>
+        <PassEx>0</PassEx>
+    </ServerConfigMember>
+</config>
